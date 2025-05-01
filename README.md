@@ -1,6 +1,7 @@
 # Countdown
 这是一个特别的番茄钟，其运作背后的依据参考：[为什么我能每天学习10小时](https://www.bilibili.com/video/BV1naLozQEBq/?share_source=copy_web&vd_source=7bbc59f78d3c9f11d056f71dc6a8f848) , 本脚本内置了更漂亮的 UI 界面，可旋转控制专注时长的时钟，可以自己选择提醒的声音文件，也可以设定专注时长，休息时长等。
-![image](https://github.com/user-attachments/assets/57675319-6fc3-422f-9737-d61ccc1b82b8)
+
+<img src="https://github.com/user-attachments/assets/57675319-6fc3-422f-9737-d61ccc1b82b8" width="200">
 
 
 # 使用 Python 脚本
